@@ -1,4 +1,4 @@
-#GESTOR DE MASCOTAS Y PERDIDAS
+#Gestor de mascotas perdidas y encontradas 2
 
 Descripción breve del sistema
 Este sistema es una plataforma web para la gestión de mascotas perdidas y encontradas. Permite a los usuarios:
