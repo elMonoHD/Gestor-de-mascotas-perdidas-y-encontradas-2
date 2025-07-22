@@ -124,6 +124,8 @@ Relaciones:
 
 Adopcion ──> Mascota
 
+Adopcion ──> Usuario
+
 
 Intrucciones para ejecutar el backend y el front
 
@@ -139,4 +141,3 @@ Situarse en la carpeta del proyecto mediante un “cd gestor_mascotas_frontend�
 Correr el servidor mediante con el comando “npm start”
 
 
-Adopcion ──> Usuario
